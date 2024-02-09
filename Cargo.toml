@@ -2,8 +2,13 @@
 name = "lotus-texture-utils"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Youn Mélois <youn@melois.dev>"]
+repository = "https://github.com/sehnryr/lotus-texture-utils"
+homepage = "https://github.com/sehnryr/lotus-texture-utils"
+description = "Utilities for lotus-lib texture handling."
+license = "MIT"
+keywords = ["warframe", "cache", "decompression", "utils", "texture"]
+categories = ["encoding", "filesystem", "parsing"]
 
 [dependencies]
 anyhow = "1.0.79"
